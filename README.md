@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+ Hi guys I'm Aditya and this is my first repository. Hope all of you are having fun. Have a nice day.
